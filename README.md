@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deus00Judex
+- 👋 Hi, I’m Daniel!
 - 👀 I’m interested in bash, Server-Stuff, Python and Java
 - 🌱 I’m currently learning programming on microprocessors and server-hosting.
 - 📫 How to reach me: danito1@web.de
