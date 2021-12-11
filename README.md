@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Daniel!
-- 👀 I’m interested in bash, Server-Stuff, Python and Java
-- 🌱 I’m currently learning programming on microprocessors and server-hosting.
-- 📫 How to reach me: danito1@web.de
+- 👀 I’m interested in bash, Server-Stuff, Python and Web-Development
+- 🌱 I’m currently learning Web-development and Python
+- 📫 How to reach me:
+-   -danito1@web.de
+-   -https://danieltoups-homepage.pages.dev/
 
 <!---
 Deus00Judex/Deus00Judex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
