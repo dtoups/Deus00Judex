@@ -38,8 +38,7 @@
   - 👻 Playing DeadbyDaylight
   - 📸 photography
   - 🚗 Formula 1
-  - 🧠 Speedcubing
-
+  - 🧠 [Speedcubing](https://www.worldcubeassociation.org/persons/2014TOUP01){:target="_blank"}
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
