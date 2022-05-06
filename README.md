@@ -76,7 +76,7 @@
 ---
 # 📬 How to reach me
 📧 E-Mail:
- - -danito1@web.de
+ - danito1@web.de
  - daniel.toups@rwth-aachen.de
  - daniel.toups@eonerc.rwth-aachen.de
 
