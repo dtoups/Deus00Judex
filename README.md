@@ -6,4 +6,4 @@
 -   -https://danieltoups-homepage.pages.dev/
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Deus00Judex)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Deus00Judex&theme=<THEME_NAME>" />
