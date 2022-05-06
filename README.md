@@ -38,6 +38,7 @@
   - 👻 Playing DeadbyDaylight
   - 📸 photography
   - 🚗 Formula 1
+  - 🧠 Speedcubing
 
 ---
 
