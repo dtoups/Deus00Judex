@@ -72,7 +72,7 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deus00Judex&layout=compact&theme=vision-friendly-dark&count_private=true&exclude_repo=CS-Programming_First_Semester_Homework)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deus00Judex&layout=compact&theme=vision-friendly-dark&count_private=true&exclude_repo=CS-Programming_First_Semester_Homework)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 # 📬 How to reach me
 📧 E-Mail:
