@@ -16,24 +16,19 @@
 ### :man_technologist: About Me :
 👋Hi, nice to see you here.  
   My Name is Daniel, and i am currently studying Computer-Science at RWTH-Aachen University.  
-  I am also working at said uni since 10-2021 as a student worker, where i can gain a lot of programming-experience
 
 📘 currently learning.
-  - JS, HTML and CSS
-  - Markdown
-  - Git
+  - C++
+  - LaTeX
 
-🏢 Currently employed as student worker at RWTH-Aachen University
+🏢 Currently employed as student worker at [Aixtron SE](https://www.aixtron.com/)
   Main Tasks:
-   - Supporting in administration
-   - Python development (corresponding repos may become publice in the future)
-      - Finished a program, that is generating synthetic networks
-      - Working on a program to identify subgroups within a adjacency matrix
-      - Working on a program to monitor sensor data in realtime  
+   - Cleanup of old Tickets
+   - Support Hardware-related concerns
+   - General Support for IT-Support and IT-Infrastructure
 
 
 🕐 I like to spend my free time with the following:
-  - 🏉 Rugby
   - 🏋️‍♂️ going to the gym
   - 👻 Playing DeadbyDaylight
   - 📸 photography
@@ -55,10 +50,8 @@
 
 ### :hammer_and_wrench: Languages and Tools i have already worked with:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
@@ -66,7 +59,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
-<img src="./prolog.svg" title="Prolog" alt="Prolog" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -76,9 +68,5 @@
 ---
 # 📬 How to reach me
 📧 E-Mail:
- - danito1@web.de
+ - d.toups@gmx.de
  - daniel.toups@rwth-aachen.de
- - daniel.toups@eonerc.rwth-aachen.de
-
-📖 Website:
- - https://danieltoups-homepage.pages.dev/
