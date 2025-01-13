@@ -23,17 +23,18 @@
 
 🏢 Currently employed as student worker at [Aixtron SE](https://www.aixtron.com/)
   Main Tasks:
-   - Cleanup of old Tickets
+   - Cleanup of old Tickets and fast solution of new Tickets
    - Support Hardware-related concerns
    - General Support for IT-Support and IT-Infrastructure
 
 
 🕐 I like to spend my free time with the following:
   - 🏋️‍♂️ going to the gym
-  - 👻 Playing DeadbyDaylight
+  - 👻 Playing Elden Ring
   - 📸 photography
   - 🚗 Formula 1
   - 🧠 [Speedcubing](https://www.worldcubeassociation.org/persons/2014TOUP01)
+  - Tinkering on my HomeLab
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
